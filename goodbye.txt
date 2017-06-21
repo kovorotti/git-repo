@@ -1,1 +1,2 @@
 print ("Goodbye WORLD")
+print ("GoodBYE")
