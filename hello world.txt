@@ -1,4 +1,4 @@
-print ("Hello World")
-print ("hello everybody!+++")
-print ("This is continuing hello!")
-print ("one more before adding goodbye feature")
+print ("Hello World;")
+print ("hello everybody!+++;")
+print ("This is continuing hello!;")
+print ("one more before adding goodbye feature;")
